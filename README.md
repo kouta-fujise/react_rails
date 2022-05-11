@@ -1,5 +1,9 @@
 # README
 
+ドキュメントは藤瀬功大が所持
+
+Kouta fujise have a document.
+
 # Features
 
 reactとrailsをAPIで連携した構築
